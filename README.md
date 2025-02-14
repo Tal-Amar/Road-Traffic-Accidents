@@ -1,4 +1,4 @@
-# Road Traffic Accidents - Final Report
+# Road Traffic Accidents
 
 *Yarin Yerushalmi Levi, Ken Yaggel, Tal Amar, Idan Hershkovitz*  
 *June 2023*
