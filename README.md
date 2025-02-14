@@ -52,10 +52,3 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/saurabhshah
 - **[Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/):**  
   Essential for data manipulation and numerical computation.
 
-## Project Structure
-
-```plaintext
-.
-├── notebooks/           # A single notebook containing all the code
-├── reports/             # Final report, figures, and supplementary materials
-└── README.md            # Project documentation (this file)
